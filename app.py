@@ -35,7 +35,7 @@ def escolher_opcoes():
     Função responsavel pela as esciolhas das opções para fazer algo no app
     '''
 
-    mostrar_subtitulo("Programa Expresso Shaikoski\n".ljust(20))
+    mostrar_subtitulo("Programa Expresso Arthur\n".ljust(20))
     print("1 - Cadastrar restaurante")
     print("2 - Listar restaurante")
     print("3 - Ativar restaurante")
@@ -95,7 +95,7 @@ def alternar_estado_restaurante():
             
 
 def chamar_nome_do_app():
-    print("""Restaurante Expresso Shaikoski""")
+    print("""Restaurante Expresso Arthur""")
 
 
 
